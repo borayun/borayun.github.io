@@ -6,7 +6,7 @@
 }
 
 body {
-	background: url(universe.jpg) no-repeat center;
+	background: url(universe.jpg) center;
 }
 
 .button { /*adjust the roundness*/
